@@ -1,6 +1,6 @@
 # Pomodoro
 
-Meu App baseado na Tecnica Pomodoro, que consiste em 25 minutos de foco e 5 minutos de descanso.
+<p align="center">Meu App baseado na Tecnica Pomodoro, que consiste em 25 minutos de foco e 5 minutos de descanso.</p>
 
 <img src="img/TelaInicial.png" height="400"/>
   <p>Tela inicial</p>
