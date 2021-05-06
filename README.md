@@ -1,2 +1,2 @@
 # Pomodoro
-A simple Pomodoro App in FLutter
+A simple Pomodoro App in Flutter
