@@ -12,7 +12,7 @@
    
 <p>
 <img src="img/About.png" height="400"/>
-<p>Tela about</p>
+<a>Tela about</a>
  </p>
  
  O App também envia uma notificação a cada 30 minutos para lembrar de beber água.
