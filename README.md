@@ -1,10 +1,10 @@
 # Pomodoro
 
 <p align="center">Meu App baseado na Tecnica Pomodoro, construído em <a href="https://flutter.dev">Flutter</a> que consiste em 25 minutos de foco e 5 minutos de descanso.</p>
-<p>
+<div style="display: inline;">
 <img src="img/TelaInicial.png" height="400"/>
   <p>Tela inicial</p>
-</p>
+</div>
 <img src="img/AppRodando.png" height="400"/>
    
 
