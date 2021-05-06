@@ -2,8 +2,8 @@
 
 <p align="center">Meu App baseado na Tecnica Pomodoro, construído em <a href="https://flutter.dev">Flutter</a> que consiste em 25 minutos de foco e 5 minutos de descanso.</p>
 
-![Alt text](img/TelaInicial.png?raw=true "Title")
-<div style="display: flex; flex-wrap:wrap; flex-direction: row; justify-content: center;">
+
+<div style="display: grid;">
 <p>
 <img src="img/TelaInicial.png" height="400"/>
   <a>Tela inicial</a>
